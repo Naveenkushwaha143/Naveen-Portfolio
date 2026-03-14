@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database files (runtime artefacts)
+*.db
+*.sqlite3
+
+# Test cache
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
